@@ -4,13 +4,15 @@ export default function Home() {
       name: 'DoDo',
       description: 'Campus marketplace app for FUNAAB — live product with agent verification and payment infrastructure.',
       status: 'Live',
-      link: '#',
+      link: 'https://dodo-funaab.vercel.app',
+
     },
     {
       name: 'Kontribute',
       description: 'Gen Z-focused social micro-crowdfunding app. "Ask for it. Get it." Built with Paystack integration.',
       status: 'Live',
-      link: '#',
+      link: 'https://kontribute-tau.vercel.app',
+
     },
     {
       name: 'Cast',
